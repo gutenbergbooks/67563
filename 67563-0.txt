@@ -1,0 +1,2060 @@
+﻿The Project Gutenberg eBook of A slemíl keservei, by Ignotus
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
+
+Title: A slemíl keservei
+
+Author: Ignotus
+
+Release Date: March 5, 2022 [eBook #67563]
+
+Language: Hungarian
+
+Produced by: Albert László from page images generously made available
+             by the Hungarian Electronic Library
+
+*** START OF THE PROJECT GUTENBERG EBOOK A SLEMÍL KESERVEI ***
+
+
+IGNOTUS.
+
+A SLEMÍL KESERVEI.
+
+GRILL KÁROLY
+
+KIRÁLYI UDVARI KÖNYVKERESKEDÉSE
+
+BUDAPEST
+
+1891.
+
+Brünauer Adolf nyomdája.
+
+A SLEMÍL
+
+KESERVEI.
+
+_L. R. BARÁTOMNAK._
+
+A slemíl zsidó szó. Olyat jelent, akinek minden dolgára ott leselkedik a
+balság; aki, mert nem bizik magában, nem is jut semmire; aki öntudatosan
+élhetetlen. És ebben más, mint a balek, akinek nevét talán jobb szivvel
+venné a magyar olvasó. De más a slemíl és más a balek; ha az életet
+valami nagy mathematikai levezetéssel vetjük egybe: a balek azért nem
+boldogul, mert nem tud semmi művelethez, – mig a slemíl biztos kézzel és
+lábbal hatol által a gyökök és logarithmusok rengetegjén, de a
+baleredménytől való féltében valami mellékes kis összeadást vagy
+különösen osztást csakugyan el is vét és igy jut hamis eredményre. A
+balek mer, de nem tud; a slemíl tud, de nem mer. Vagy ha mer, rosszkor.
+
+Legyen kimentőm az is, hogy például a német és a franczia irodalmi nyelv
+polgárának fogadta a slemílt. (Chamisso, Heine, Bourget.) Ha az én
+Slemílkém nem kedvelteti meg magát, az mutatja csak igazán, hogy slemíl
+– és akkor aztán akár Tuhutumnak is híhatnák!
+
+Budapesten, 1891, julius havában.
+
+
+
+
+PROLÓG.
+
+  Régi bajrul régi nóta.
+  Szürke felhő permetegje
+  Földre hullik, egyre gyérül,
+  Köd meg pára lesz belőle,
+
+  Gőzbe vonja és megűli
+  A nagyváros minden útját
+  És pocsékká áztat minden
+  Házat, embert és lovat,
+
+  És pocsékká áztat minden
+  Kedvet, vágyat, eszmelánczot,
+  Képzelődést, nagyravágyást –
+  Káromkodni sem tudok.
+
+  Nem vagyok már don Quijote,
+  Nagyralátó terveimtül,
+  Fierabras balzsamátul
+  Most is bánt a macskajaj,
+
+  Vézna termetem nem ékes
+  Sancho Panza potrohával;
+  A közömbös, egyre tűrő
+  Rocinante, az vagyok.
+
+  Mint a boldogult Horáczjus
+  Vastag ujján úszóhártyát,
+  Puha testén hattyutollat
+  Sarjadozni érezett:
+
+  Engemet zabérzemények
+  Abrakálma ringat el –
+  Hajt a lelkem a kovácshoz:
+  Patkoljál meg, ó kovács!
+
+  Álom a zab, álom. Ámde
+  Hogyha nem is lesz mit ennem,
+  A bogáncsot rágó szürkét
+  Szörnyü egy mód megvetem.
+
+  És legyen bár hivatalban,
+  Napilapnál, hadseregnél;
+  Hadd pereljen, hadd tanítson,
+  Kuruzsoljon ez meg az;
+
+  Sőt regényt, meg vígjátékot
+  Irjon élelmes poéta:
+  Üdvöt, vágyat, lángszerelmet
+  Ésatöbbit zengek én!
+
+  Nyájas olvasó, ki eddig
+  A nevem nem ünnepelted,
+  Sőt eléltél a’ne’kül, hogy
+  Tudtad vón’, hogy létezem,
+
+  Századvége morajában
+  Jól tudom, nem érdekelhet
+  Ózenéjű hangszeremnek
+  Régi hangu éneke,
+
+  S nem nehéz lesz rám idézned
+  A nagy német röpke szóját:
+  A mi jót beszélsz, nem új az
+  S a mi újat, az nem jó.
+
+  Ó mi furcsa, hogy ti épen
+  A költőtül kértek újat!
+  Mikor éltünk tünde álma
+  Olyan régi egy dolog,
+
+  Mikor olyan régi minden
+  Amitől dal kél az ajkon!
+  Uj talán a kedv, a bánat,
+  Uj talán a szerelem?
+
+  Uj talán a hon szerelme,
+  A virág meg a madárdal,
+  Uj talán a fényes égnek
+  Annyi méla csillaga?
+
+  Uj talán, hogy szenved a jó
+  S a roszszé a diadal?
+  Amit türtök, amit éltek,
+  Az az élet uj talán?
+
+  Minden elmult ezredévek
+  Minden elhalt nemzedéke
+  Azt találta itt a földön
+  Amit ti találtatok,
+
+  Küzdtek úgy, ahogy’ ti küzdtök,
+  Öltek úgy, ahogy’ ti öltök,
+  Törtek úgy, ahogy’ ti törtök
+  Czélt nem érve sohasem –
+
+  És a czél, amelyre törtök
+  Uj talán? A vad szegények
+  És a büszke gazdagoknak
+  Harczi pártja uj talán?
+
+  Uj talán a munka kinja?
+  Uj talán a jog bilincse?
+  Uj a vágyak szomjazása?
+  Uj a meddő epedés?
+
+  Uj talán, hogy mindig voltak
+  Kórepéjü Therszitészek,
+  Akik tajtéktúrva hallák
+  A királyok dolgait?
+
+  Rajta, rajta! Mint Odüsszevsz
+  Fogd a pálczád’ a latorra
+  S verd beléje, hogy megértse:
+  Mindig új, ami örök!
+
+
+
+
+ELSŐ ÉNEK.
+
+  Egyszer volt, hol nem volt, volt egy
+  Ifju ember, akit apja
+  És az anyja s a rokonság
+  Mindig úgy hítt, hogy Emíl,
+
+  Ám tapasztalt jóbaráti
+  Két betűvel megnövelték
+  E költői szép nevet
+  S elnevezték őt Slemílnek.
+
+  Furcsa név, tagadhatatlan;
+  Semmiképen sem hizelgő!
+  Ha fiam lesz, nem nevezem
+  Soha err’ a névre őt.
+
+  Mennyi név van a világon
+  Nagy dicső és tettrekeltő!
+  Hogy ne mondjak többet: itt van
+  Viktor és Bazíliusz,
+
+  Konsztantínusz, Augusztínusz
+  Szigfríd, Gottfríd, Teofilusz,
+  Dionízusz, Dominíkusz,
+  Benediktusz és Leó –
+
+  De mihaszna felruházni
+  Bármi fényes, büszke névvel,
+  Aki teljes életében
+  Nem leszen más, mint slemíl?
+
+  Mily slemíl volt a Slemílkénk
+  Már kicsiny gyermekkorában!
+  A verésben nincs olyan faj,
+  Amit ő meg nem kapott,
+
+  Nincs a gyermekszívnek annyi
+  Búja, kínja, gyötredelme,
+  Hogy ne lett vón’ mindegyiktől
+  A gégéje keserű,
+
+  S a magyar nagy rónaságból
+  Ujra sós tenger lehetne,
+  Ha ott gyültek volna össze
+  Titkon ejtett könnyei.
+
+  Mint kivánja minden gyermek
+  A madárnak szárnyait!
+  Hogy’ szeretné átrepülni
+  Nagy merészen a leget –
+
+  Ó a mi kicsiny Slemilünk
+  Sohse kelt vón’ ilyen útra,
+  Mert az ekkép exponált lény
+  Mindenünnen látható,
+
+  És kitünt vón’, amit olyan
+  Féltve és vigyázva rejtett:
+  Hogy hiányos a ruhája
+  S a czipője is lyukas.
+
+  Anyakéz nem varrta össze
+  A nadrágja sebeit,
+  Nem simítá homlokárul
+  A korán ért sok redőt;
+
+  A homályban ifju lelkét
+  Anyaszó sohsem vezette,
+  S anyacsók nem édesíté
+  A fiú keserveit.
+
+  A’ biz úgy van: az anyáknak
+  Egyéb dolguk is akad, –
+  Nem elég baj, hogy a gyermek
+  Annyit ront a bájukon?
+
+  ’Sz épen ez volt a slemilség:
+  Apja is volt, anyja is volt,
+  Mind a kettő szép is, jó is,
+  Mégse’ voltak szülei,
+
+  Volt szobája, volt kis ágya,
+  Ámde nem volt otthona;
+  S bár zsebpénze volt busásan,
+  Pénze nem volt sohasem.
+
+  Pénz ne’kül pedig, világos,
+  Nem lehet el a gyerek sem,
+  Amit ó mi szörnyü gyakran
+  Érezett a kis Slemíl,
+
+  Amikor pirúlva látta,
+  Hogy’ segélnek fel barátot,
+  Hogy’ köszöntenek tanítót
+  Nélküle a társai.
+
+  Mint regényes hőshöz illik
+  A Slemílke is kerülte
+  Bús magába elvonulva
+  Könnyüvérü társait,
+
+  És feledve kis jelenjét,
+  Gyermekálmok czifra fényes
+  Sok kövéből összeépült
+  Jövőjébe menekült.
+
+  Nem, nem mintha a szivében
+  Sohse’ keltek volna vágyak,
+  Ujjongásra, társaságra,
+  Szeretetre szomjazók,
+
+  Ó de félt a boldog társak
+  Duzzadó nagy erejétől,
+  Félte kedvük lobbanását
+  S elbizott nyers szavukat.
+
+  Mint a lepke színe bágyad,
+  Hogyha súlyos kéz lefogja
+  És lesöpri durva újjal
+  Szárnya könnyü hímporát,
+
+  Úgy lebágyadt a fiú is,
+  Hogyha gúnyos szóval érték
+  És a kínzók karma közzül
+  Szárnyatépve ment tova.
+
+  Szárnyatépve, kedveszegve,
+  Szembehúnyva, – néha írigy
+  Égő indulatra gyúlva:
+  Igy töltötte napjait.
+
+  Nem ugy nőtt fel, mint a rétnek
+  Ápolatlan vadvirága,
+  Melynek bárha van tövisse,
+  Van virágzó ereje:
+
+  Mint a pinczék növevénye
+  Gyenge, síma és erőtlen,
+  Halovány volt, keserű volt,
+  Gyorsanérett és beteg.
+
+
+
+
+MÁSODIK ÉNEK.
+
+  Hogyha végre áttanultad
+  A lélektant és a boncztant,
+  A physiologiát és
+  Az embryologiát,
+
+  Ha beláttad, hogy az ember
+  Csak magasabb fajta állat,
+  Alvó, évő, szaporúló
+  Közönséges szervezet:
+
+  És beláttad, hogy példáúl
+  A szem kék vagy barna színe
+  Nem egyéb, mint az irishez
+  Tapadó föstékanyag,
+
+  Olyankor esik meg rajtad,
+  Hogy egy női emberállat
+  Kékpigmentumos szeméből
+  Útrakél egy fénysugár
+
+  És olyan forró erővel
+  Irritálja a retinád’,
+  Hogy sötétség száll agyadra
+  És szivedbe szerelem. –
+
+  Ládd-e, olvasóm, ha rajtad,
+  Aki olyan nagy tudós vagy,
+  Olyan bölcs és olyan művelt,
+  Oly tapasztalt és blazírt,
+
+  Hogyha rajtad is megeshet,
+  Hogyha téged sem kerűl el:
+  Ne csodáljad, hogy Slemílkén
+  Is megesett ez eset!
+
+  És ne vesszed a türelmed’
+  Aki meg nem szoktad eddig,
+  Hogy gyerektörténetekkel
+  Támadják figyelmedet,
+
+  S akinek nincs érkezésed,
+  Hogy magad dolgán törődjél,
+  Tőled kérik, hogy figyeld egy
+  Kis fiúnak életét.
+
+  Volt idő, eszedbe jusson,
+  Hogy te is még gyermek voltál,
+  Lármakeltő, lepkehajtó
+  Vagy magadba zárkozott:
+
+  Nem szorúlt-e össze szíved,
+  Nem vonaglott gyermekajkad,
+  Mikor a nagyok nem érték
+  Kis szived nagy bánatát?
+
+  Lehetett tán tizenhárom
+  Éves már a furcsa ifju,
+  Hogy egy gyermektársaságba
+  Kényteték nagy nehezen
+
+  S ottan állott nagy mogorván
+  Egy sarokba elvonulva,
+  Mindenektül elhagyatva,
+  Részt nem véve semmiben.
+
+  De a házi kis kisasszony
+  Szánva nézte a szegényt
+  – Nem türhette, hogy szalónja
+  Diszharmónikus legyen –
+
+  S fölkeresve a sarokban
+  Azt a mord kis elhagyottat,
+  Megkisérlé szóba fogni
+  S tánczba vonni a fiút.
+
+  Hősünk szégyenére mondom,
+  Hogy egy kukkot sem felelt
+  És a kedves szánalomra
+  Semmikép sem reagált,
+
+  És a kis lyány nemsokára
+  Ott is hagyta a faképnél –
+  Ám a kis Slemíl szivében
+  Szőke képe ott maradt.
+
+  Szerelem! te szép hazudság,
+  Megalázó édes érzés,
+  Amelytől a férfiszivben
+  Undor és vágy kél vegyest:
+
+  Mit akarsz egy kis fiúnak
+  Éretlen darab szivétől?
+  Mért kinoznod, összetörnöd
+  Egy arasznyi kebelet?
+
+  Nem is olyan szerelem volt
+  Ami a fiúban égett,
+  Mint milyet hevülve érzünk
+  Mi okosak és nagyok,
+
+  Nem leány volt néki a lyány
+  És nem a nőt kérte rajta:
+  A napot imádta benne,
+  A világot, a reményt.
+
+  Mint a rengeteg sötétjén,
+  Térdrogyasztó tévetegjén,
+  Vágyva-kért és százszor áldott
+  A kicsillant napsugár,
+
+  Biztosabb volt lába lépte,
+  Harczrakészebb volt a karja,
+  Hogyha rája a leánynak
+  Pillantása ragyogott.
+
+  Hogyha vidám kaczagók közt
+  Ő magában volt mogorva,
+  Hogyha sérték, hogyha bánták,
+  Mellőzték igaztalan’:
+
+  Kárjavító irgalomnak,
+  Csudatékony szent igazság
+  Földönjáró angyalának,
+  Annak nézte azt a lyányt.
+
+  Téved, aki él a hitben,
+  Hogy Slemílke mindent megtett,
+  Hogy szerelmét fölkeresse
+  És magához kösse le –
+
+  Nem biz’ ő, sőt vajmi gyakran
+  Úgy esett találkozásuk,
+  Hogy Slemíl úr nagy közönynyel
+  Egy – plakátot olvasott!
+
+  Ó de hogyha tovatünt már
+  Könnyü lépttel a leányka,
+  A fiú szorongó szivvel
+  Követé őt messziről,
+
+  És ha hazatért ilyenkor,
+  Annyi furcsa vers szövődött,
+  Annyi kis levél iródott
+  És jutott a tűzbe mind!
+
+  Annyi álom színeződött,
+  Mely vitéz magát mutatta,
+  Amint seregeknek élén
+  Győzödelmes harczba jár
+
+  S a kis lábakhoz lerakja
+  Hét ország gyémántadóját:
+  „Hét királyság hős urának,
+  Légy királyném énnekem!“
+
+  Ez merész tán, – de Slemílke
+  Megvetette a reálist;
+  Souverainül megvetette
+  Például az iskolát,
+
+  És önálló bölcseséggel
+  Alkotá meg órarendjét:
+  Nappal a lyánykát kisérte,
+  Éjjel pedig olvasott.
+
+  És mikor Slemíl elérte
+  A kamaszkor bús szakasszát,
+  Akkor is sok verset irt még –
+  Az igaz, hogy jobbakat;
+
+  Akkor is szőtt számos álmot,
+  Igaz, hogy nem oly merészet, –
+  Akkor is szerelmes volt ő
+  S akkor is csak messziről.
+
+  Rá nem tudta magát szánni,
+  Hogy a társaságba menjen,
+  Mikor ottan rápiríthat
+  A legotrombább suhancz,
+
+  Csak azért, mert jobban tánczol,
+  Csak azért, mert pergőbb nyelvü,
+  Csak azért, mert lába hosszabb,
+  És ruhája díszesebb.
+
+  Néha olyan messze tartott,
+  Hogy felért az emeletre
+  És a csengő sárga csontját
+  Majd hogy meg nem nyomta már,
+
+  És kihallá zsivaját a
+  Kedvesével mulatóknak,
+  Akiknek legtöbbikénél
+  A kis ujja többet ért:
+
+  S ebb’ a perczbe’ már is érzé
+  A zavar nebéz nyomását,
+  Ahogy arczát elpirítá
+  És dobogtatá szivét,
+
+  Érezé, hogy játékrontó
+  Lesz a vidám társaságban –
+  Visszarettent, visszalépett,
+  Megfordult és hazament.
+
+  És az évek, nem törődve
+  Az ujságnak ingerével,
+  Egyre tüntek, bár futásuk
+  Rég elcsépelt egy dolog,
+
+  S bár ezerszer volt megirva
+  Rimmel ép úgy, mint anélkül:
+  A Slemíl is évrül-évre
+  Nőtt – igaz, hogy nem nagyot.
+
+
+
+
+HARMADIK ÉNEK.
+
+  Jer, Slemílke, fogd a széket,
+  Ülj le mellém és feleljél
+  Nyilt szavakkal: nem slemílség
+  Ez az ilyen szerelem?
+
+  Sohse lázadt föl tebenned
+  A husz éves büszke férfi,
+  Ha bolyongó sétaúton
+  Kergetéd a lyány nyomát?
+
+  Egy barátod épen tegnap
+  Szöktetett meg egy varrólányt,
+  Másik ellen ép ma lesz az
+  Apasági tárgyalás,
+
+  És te ép ma számitád ki
+  Pontosan, hogy még szerencse,
+  Hogy ha minden ötvenednap
+  Pillanatra látod „Őt“!
+
+  Őt, kivel gyerekkorodban
+  Két vagy három szót beszéltél,
+  És attól a percztől fogva
+  Nem gondolsz, csak őreá
+
+  És azóta már hat éved’
+  Háza táján őgyelegve
+  Őt keresve, rája várva,
+  Verscsinálva verted el!
+
+  Ó Slemíl, a halhatatlan
+  Istenek mennyit nevetnek
+  Hogyha szellős csarnokukból
+  Letekintenek reád,
+
+  És rohanni látnak egy-egy
+  Ismerős ernyő nyomába,
+  Mely elől ha szívdobogva
+  Már kitérni nincs időd,
+
+  Akkor látod át ijedten,
+  Hogy nem a lyány tünt elédbe,
+  Ám előtted áll az anyja
+  És a nagymamája is,
+
+  És a két hölgy gyanakodva
+  Nézi félszeg köszönésed’:
+  „Mi az ördögöt kereshet
+  Mindig itt ez a fiú?“
+
+  És ugyan mi jód van abban,
+  Hogyha őt magát találod?
+  Mindenik találkozással
+  Nem gyarapszik-e bajod?
+
+  Újévkor te nem köszöntél,
+  Februárban ő nem látott,
+  Márcziusban meg elejtéd
+  Előtte a kalapod,
+
+  S mikor végre áprilisban
+  Egész perfekten köszöntél,
+  Köszönésed viszonozta
+  Nem csak ő, – egy hadnagy is!
+
+  Erre az esetre lettél
+  Ágyba’fekvő nagy beteggé
+  S ilyen édes gondolattal
+  Sírtad át az éjeket:
+
+  Hogy mig itten forgolódva
+  Lázban éged át a májust,
+  Addig ottan az a hadnagy
+  Tudja isten, mit csinál!
+
+  Légy, fiam, nyugodt; a hadnagy
+  Nem csinált ott semmi ollyat,
+  Amit egy kis akarattal
+  Ne tehetnél meg te is:
+
+  Azt tevé, hogy általtánczolt
+  Kedveseddel két élite-bált,
+  – Erre a jó ideára
+  Rájuthattál vón’ te is –
+
+  S erre munkadij fejében
+  Meghivást kapott a házhoz,
+  – Udvarolj csak a mamának,
+  Néked is kijut e kegy:
+
+  S ekkor egy vasárnap délben
+  A visite zürös zajában
+  Megvallhatod kedvesednek
+  Szíved összes bánatát,
+
+  És boglyas fejed’ lehajtva
+  Mondhatod majd hőn susogva:
+  „Légy az én kis feleségem,
+  Várj reám, mig megnövök!“
+
+  De te félsz a társaságtól,
+  A nevétől is szaladsz már
+  És ha mégis belefognak,
+  Meg nem állod a helyed’;
+
+  S a’helyett, hogy kedves volnál,
+  Pajkos, élczes és negédes,
+  Sok bolond különczködéssel
+  Leplezed a zavarod’,
+
+  Úgyhogy, hogyha általában
+  Észrevesznek a leányok,
+  Azt gondolják: „bár csak itt ne
+  Volna már e bús kamasz!“
+
+  Ládd, hisz azt elismerem, hogy
+  Álmaidnak tartományán
+  Úr vagy, nagy, dicső, hatalmas,
+  Fényes és korláttalan,
+
+  Ó de jobb vón’, hogyha e’ hely’tt
+  Megaláznád büszke fődet
+  És letennél egyhuzomban
+  Vagy három szigorlatot,
+
+  S a’ helyett, hogy egyre irnád
+  A sok bánatos poémát,
+  Szidva sorsod’, a miért Őt
+  Soha el nem érheted,
+
+  Kutyabőrrel a zsebedben
+  Megkérnéd kis szőke, bájos
+  Ideálodnak reális
+  Ősz apjától a kezét. –
+
+  Gyakran szállt Slemíl magába,
+  Gyakran siratá meg éltét,
+  Áthenyélt sok drága napját
+  S átvirrasztott éjeit,
+
+  És ilyenkor vad szitokkal
+  Átkozódva meggyülölte,
+  Aki, bárha öntudatlan’,
+  E leromlás oka volt.
+
+  De azért egyet se lépett,
+  Hogy feledje, vagy elérje,
+  Inkább irt tizenkét verset,
+  Mint egy disszertácziót;
+
+  És a könnyü gyűlölséget
+  Leveré a mély rajongás,
+  S ujra epedett utána,
+  Ujra róla álmodott.
+
+  Véle járt a lyánynak képe
+  Minden utján, minden álmán,
+  Meghallgatva a fiúnak
+  Nagy magánbeszédeit,
+
+  Aki mindazt, mit a költők
+  Évek ezrén összeszőttek
+  S mit maga rajongva képzelt,
+  Mind e képhez álmodá;
+
+  Földerité égi fénynyel,
+  Fölruházta égi bájjal,
+  Ugyhogy abban nem maradt már
+  Többé semmi emberi,
+
+  Nem volt más, mint a Slemílke
+  Vágyainak alkotása,
+  Mit magának ő teremtett,
+  Melyre néki joga volt!
+
+  Mindezekről a szép lyánynak
+  Nem volt semmi tudomása;
+  Nem is tudta, hogy ő milyen
+  Égi lénynyé változott,
+
+  Valaminthogy azt se sejté,
+  Hogy ő annyi éven által
+  Élt együtt egy nagy költővel,
+  Kinek őrá joga van!
+
+
+
+
+NEGYEDIK ÉNEK.
+
+  Egy napfényes nyári reggel,
+  Jobban mondva délelőttön,
+  Hogy Slemíl egy nyaralói
+  Lóvonatra felkapott,
+
+  Majd beszédült a konduktor’
+  Erre nem szokott karjába:
+  Egy ablaknál véle szemben
+  Ült a százszorszép leány.
+
+  Fényben ült ott, kis világos
+  Délelőtti toiletteben –
+  Ily ruhában mindenik nő
+  Emberibb s elérhetőbb;
+
+  És hogy a közeledésnek
+  Utját semmi el ne állja,
+  Nincs körötte senki és csak
+  Egy kis öcscseé a garde.
+
+  A Slemílnek szive dobbant:
+  Im, elérte élte czélját!
+  Hámba fogni a szerencsét
+  Itt van, itt az alkalom!
+
+  S azt se tudva, hogy mi módon
+  Kezdi majd meg a beszédet,
+  Megbotolva, nagy robajjal
+  Benyitott a kocsiba.
+
+  Fölriadt a zajra a lyány,
+  Föltekintett a fiúra,
+  Köszönését elfogadta –
+  Látszott, hogy fölismeri;
+
+  Sőt mikor az elfogultan
+  Közeledni sem mert hozzá,
+  S egy sarokba megvonulva
+  Lopva pillantott reá,
+
+  Egy hivó fejmozdulattal
+  Odainté őt magához –
+  A fiúnak szive dobbant:
+  Itt van, itt a pillanat!
+
+  Jaj, de amit annyi éven
+  Át ez alkalomra gyüjtött,
+  Mind az ötlet, mind a szellem
+  Cserbe’ hagyta czudarul,
+
+  És olyan mély bensőséggel
+  Kezdte meg – a hallgatást,
+  Hogy a lyánynak kellett végre
+  A beszédbe fognia.
+
+  „Hogy’ van, X. úr?“ szólt a szép lyány
+  A szalónhölgy mosolyával,
+  Melyben összeforrva rezdül
+  Pajkosság és unalom – –
+
+  Hogy’ vagyok? Boldog vagyok,
+  Hogy szemedbe nézhetek,
+  Félczipős kis lábaidhoz
+  Akarok lehullani;
+
+  Hogy’ vagyok? Boldog vagyok,
+  Vad, rajongó és szerelmes,
+  Selyemkeztyűs kis kezedre
+  Akarok leomlani;
+
+  Hadd boruljon rám hajadnak
+  Csudaselymes szőke leple
+  Míg beszívom nedves bársony
+  Ajakad lehelletét
+
+  És karomba zárva téged,
+  Bágyadó szemem lehunyva
+  Fölcsicsergő, szivbecsengő
+  Szavaid’ hadd hallgatom – –
+
+  Mind e dolgokat Slemíl úr
+  Csak magában gondolá,
+  Amig akadozva így szólt:
+  „Ó, köszönöm, jól vagyok.“
+
+  „Hát kedves növére hogy’ van?“
+  „Köszönöm, – hát jól van ő is,
+  Bár igaz, hogy a napokban
+  Egy kicsit gyengélkedett.“
+
+  „Hova mennek most a nyáron?“
+  [Arra mé’k, amerre te,
+  Ha nem köllök kedvesednek,
+  Hadd követlek, mint ebed – –]
+
+  „Az anyám meg a testvérem
+  Úgy hiszem, Szliácsra mennek,
+  Én pedig majd az öcsémmel
+  A városban maradok.“
+
+  „Hát milyen pályára ment ön?“
+  „Én, nagysád, jogász vagyok,
+  És ha isten úgy akarja,
+  Nemsoká’ ügyvéd leszek.“
+
+  „Ó hisz akkor nemsokára
+  Nagy partie lesz, várvakivánt,
+  Ünnepelt, körűlrajongott,
+  Büszke, gőgös épouseur!“
+
+  Erre nem felelt Slemíl úr,
+  Nem felelt, hanem nagyot nyelt,
+  És pirúlva, mély zavarban
+  Lesüté a szemeit,
+
+  És hiába, hogy tolúltak
+  Ajakára a heves szók
+  És a hosszas vágyódásnak
+  Epedő sohajjai,
+
+  És hiába ösztökélte
+  Vallomásra önnön szíve
+  És a szép lyány hallgatása –
+  A Slemíl csak hallgatott.
+
+  „És hogy hogy’ áll a szerelemmel?“
+  „Szerelemmel, szerelemmel?
+  Ó, nagysád, a szerelemben
+  Úgy hiszem, slemíl vagyok!“
+
+  Itten megszakadt beszédük
+  Gyenge kurta fonala,
+  Az uton szemben jövőket
+  Nézte kémlőn a leány,
+
+  Nem talál-e ismerősre,
+  Akit kedvesen köszöntsön –
+  A fiú meg elfogultan
+  Hallgatott, csak hallgatott.
+
+  Átczikázott bár agyában,
+  Hogy nem így gondolta ő ezt,
+  Ezt az annyi éven által
+  Várva-várt találkozást,
+
+  És a szép lyány csak talán egy
+  Biztató szót még ha szólna,
+  Bátorodnék, és nem volna
+  Veszve akkor semmisem –
+
+  Ám a szép lyány mitse mondott,
+  A fiú meg néma csöndben
+  Ült, mosolyra tuszkolt szájjal,
+  Mint egy vidéki rokon…
+
+  Nem, a szép lyány szót se szólott
+  S hogy az állomást elérték,
+  Oda nyujtá a fiúnak
+  Búcsuzóra a kezét,
+
+  S míg amannak a szivéig
+  Ért a kís kéz könnyü terhe,
+  Szólt szelíden szánakozva:
+  „Isten önnel, kis slemíl!“
+
+
+
+
+ÖTÖDIK ÉNEK.
+
+  „Gyere hozzám, ha az éjnek
+  Sűrü fátyla rejt vigyázva
+  S álmodó fák méla árnya
+  Eltakarja útadat,
+
+  Gyere hozzám – senki, senki
+  Meg ne tudja, meg ne lássa,
+  Meg se sejtse gondolatban,
+  Hogy mi boldogok vagyunk!
+
+  Vagy ha sért a titkolódzás
+  És ha dacz kell a szivednek
+  S nem törődöl a világnak
+  Sziszszenő száz nyelvivel:
+
+  Gyere hozzám, ha az égnek
+  Csillagmécse már kiégett
+  S fennvirrasztva ablakomnál
+  Várom a kelő napot,
+
+  Gyere hozzám nyári hajnal
+  Illatában, lágy hevében,
+  Szerelemre, ölelésre
+  Tárva áll a két karom…“
+
+  Más kié volt ez a napló,
+  Mint Slemílé? Hazaérve
+  Hogy magát végigvetette
+  Törtrugójú pamlagán,
+
+  És szemét hogy elborítá
+  Reszkető nehéz karjával,
+  Hogy az igy támadt setétben
+  Fénygyürűk röppentek el,
+
+  Megkisérlé azt az arczot
+  Elképzelve ujralátni
+  S azt az édes, édes hangot
+  Ujra visszahallani.
+
+  Majd lihegve, fuldokolva,
+  A saját kezét szoritva
+  Mormogá magában a szót:
+  Isten önnel, kis slemíl!
+
+  Majd felugrott pamlagáról
+  És egy lap papírnak rontott
+  És keresztbe írt reája
+  Girbe-gurba sorokat,
+
+  Amelyekbe’ meg volt írva
+  Minden szó, amit ma hallott
+  És beléjük írva minden
+  Vágy, kiáltás és sohaj,
+
+  Többrendbéli „ó“ és „hogyha“,
+  Ugyanannyi „édes, édes!“
+  És töméntelen sok „szőke“
+  „Imádlak“ és „meghalok!“
+
+  „Hát beszéltem volna véle?
+  Hát nem álom? Hát valóban
+  Ez a kéz az, mely kacsóját
+  Búcsuzóul megfogá?
+
+  Ez az ajk az, a mely hozzá
+  Szólt, ha léhán és bután is,
+  És, ha otrombán, ügyetlen –
+  Ó de hozzá szólhatott?“
+
+  Majd meg aztán, hogy fejéből
+  És szivéből és kezéből
+  Csillapulva tűnni kezdett
+  A mámor s az izgalom,
+
+  Átgondolta hidegebben
+  A találkozást – s a szíve
+  Balga szíve egyre jobban,
+  Egyre jobban elszorult…
+
+  Hisz’ igaz, egy szép leánynak
+  Nem muszáj azt észrevenni,
+  Hogy nyomába évek óta
+  Jár-e, nem-e valaki,
+
+  De hiszen láthatta a sok
+  Gyakor égő piruláson
+  És ügyetlen köszönésen,
+  Hogy szereti a fiú –
+
+  „Hisz láthatta a szememből,
+  Hisz láthatta minden egyes
+  Félszeg medvemozdulatról,
+  Hogy rajongva szeretem,
+
+  És ha volna a világos
+  Blouse alatt csak egy csöpp szíve,
+  Mondhatott vón’, hogy ha nem több,
+  Egy vigasztaló betűt!
+
+  Nem, tudom, nem köllök néki!
+  Mint a foghíjas kamaszszal
+  Szól a háznak ismerőse,
+  Úgy, csak úgy beszélt velem,
+
+  Szinte vártam, hogy föláll majd
+  És kezét vállamra téve
+  Rám szól: „Csak sokat tanuljál
+  S jól viseld magad’, fiam!“
+
+  Csak nem intett vón’ magához,
+  Csak nem vét az etiquettenek
+  Ilyen főtörvénye ellen,
+  Hogyha férfinak tekint,
+
+  Csak talán nem fog beszédbe
+  És nem szól a szerelemről,
+  Ha nem tartja azt, hogy néki
+  Veszedelmes nem vagyok?
+
+  Nem, tudom, nem köllök néki!
+  Hiszen az ő társasága
+  Nem az ényim és a szíve
+  Mást kiván, nem engemet,
+
+  S énnekem ha ez halálom,
+  Vagy, mi rosszabb, ha kizüllök
+  Tisztes emberek sorából:
+  Mit törődik azzal ő?
+
+  Ó hisz ő is, ő is olyan,
+  Ő is olyan, mint a többi,
+  Ő sem angyal, ő se tündér,
+  Ő is, ő is csak leány,
+
+  Ő is akkor hall, ha szólnak,
+  Ő is akkor lát, ha tesznek,
+  Őt se híja irgalomra
+  A szavatlan fájdalom!“
+
+  Nyájas olvasó, belátod:
+  Itt csak a Slemíl hibás,
+  Rossz irányban elfogult és
+  Nagyon igazságtalan,
+
+  Mert először is: nem épen
+  Kötelesség észrevenni
+  Valamely egész közömbös
+  Polgártárs magánbaját;
+
+  És másodszor meg: nem épen
+  Kötelesség, szánalomból
+  Az ő boldogsága végett
+  A magunkét ölni meg,
+
+  Harmadszor: a társaságban
+  A szokás nincs elfogadva,
+  Hogy szerelmet ne az ifju
+  Valljon, hanem a leány.
+
+  Mindezt általgondolá bár
+  A Slemíl, de mégis, mégis
+  Marczangolta a megsebzett
+  Hiuság és szerelem,
+
+  És még egy találkozást, csak
+  Azt reméllt a másik napra,
+  S erre várva dőlt le, hogy majd
+  Átviraszsza a nagy éjt.
+
+
+
+
+HATODIK ÉNEK.
+
+  Rút idő van, szürke, gőzös,
+  Álmosító és lesujtó;
+  Négy napon s négy éjszakán át
+  Egyre hullik az eső,
+
+  Ami embert sírba dönthet,
+  Hanem a kukoriczának
+  Kitünő – s e gondolatban
+  Van valami emelő. –
+
+  Ó ti, akik úgy nevettek,
+  Ha az ifju a leánynyal
+  Az időrül kezd beszélni
+  Életének tavaszán,
+
+  Azt kivánom egytül-egyig
+  Nektek, rút hypokritáknak:
+  E világi éltetekben
+  Folyton essék az eső
+
+  És bizsergő tűszurással
+  Át esernyőn és kabáton,
+  Bőrön által és tüdőkön
+  Töltse meg a csontotok’. –
+
+  Négy a napja, amióta
+  Otthonn vesztegel Slemílünk,
+  Szerelemmel a szivében,
+  Káromlással ajakán;
+
+  Négy a napja, amióta
+  Egyre bámul a nagy égre:
+  Nem nyomúl-e át a felhőn
+  Csak egy tűnyi napsugár,
+
+  Hogy reménye volna, bárha
+  Csak egy tűnyi, egy szemernyi,
+  Hogy, ha pillanatra is csak,
+  Megláthatja kedvesét.
+
+  Semmi, semmi! Nincs reménye,
+  Ó de búja van temérdek –
+  Ez kell még, e nedves gúnyú,
+  Szürke állandó idő!
+
+  A sok évnek annyi vágya
+  És kijátszott sok reménye
+  Egyesülve fojtogatja
+  Vasmarokkal a nyakát;
+
+  Tompa, ónos, nagy főfájás
+  Zakatol nehéz agyában,
+  Bősz düh kínja duzzogatja
+  Homlokán az ereket,
+
+  És dühöngő nagy szerelme
+  Tehetetlen forrongásban
+  Szinte égő, bosszuvágyó
+  Gyűlöletre változik.
+
+  „Mit vétettem, mit tehettem,
+  Hogy megőrülök miatta?
+  Ha a két szemem kiégett,
+  Szebb attól az ő szeme?
+
+  Hízik attól, hogyha én úgy
+  Sorvadok, fogyok miatta?
+  Jobban alszik, ha miatta
+  Bőgöm át az éjeket?
+
+  Több az elme az agyában,
+  Több a szellem a szavában,
+  Hogyha én itt ő miatta
+  Romlok, züllök, butulok?“ – –
+
+  Ilyeket sok más egyébbel
+  Dörmögött, öklét harapva,
+  Majd magát egy székre vágva,
+  Írt, amint következik:
+
+  „Fölébred bennem a vadállat,
+  Ha az utczán szembentalállak,
+  Az arczom hozzád oly közel,
+  Hogy érezhetnéd, mint tüzel
+  És köszönő karom remeg
+  A vágytul, hogy öleljelek –
+  Mi volna, hogyha rád rohannék,
+  Ajkadra csókra csókot adnék?
+  Mi volna, hogyha üldenélek,
+  Tépnélek, halni küldenélek?
+  Ha elkékülne hónyakad
+  Szoritó ujjaim alatt,
+  S a miattad szenvedt sok órát
+  Piros vérrel magad lerónád?
+  Ó, hogyha egyszer ezeket
+  Az éveket meg perczeket,
+  A napokat meg éjeket,
+  Melyekben szívem vérezett
+  Romlásomon, czélom feledtén:
+  Ha rajtad őket megvehetném!
+  Ha dühöm égő indulatja
+  Öklözne, tépne, fojtogatna,
+  És ami bennem forr, a méreg
+  Szived kirágva ölne téged!
+  Vagy azt hiszed: nem vagy hibás?
+  Nem bűn a báj, a csábitás?
+  Nem orv, ki védtelenre tör?
+  Nem gyilkos, aki szívet öl?
+  Tünnél elémbe, hogyha leslek!
+  Jönnél felém, mikor kereslek!
+  Tünnél elém, jönnél felém,
+  Lennél enyém, lennél enyém!
+    Úgy, úgy teszek! ha úgy esett,
+  Hogy ujra látlak, rádlesek,
+  Rádrohanok és rádtörök
+  És csókolok – meg jó: ölök.
+  Az őgyelgő nagy csőcselék,
+  Mely észre sem vett tán elébb,
+  Mig átrohantam sorait
+  Utánad ott, utánad itt:
+  Csak hadd ijedjen és hadd álljon,
+  Hadd nézzen és hadd kiabáljon –
+  Hogyha nem üdvözülhetek,
+  Kárhozzam el, de teveled!
+  Bünhődnöd kell, mert nagy a vétked,
+  Hogy oly nagyon szeretlek téged!“
+
+  „Úgy teszek majd!“ A leánynak
+  Képe tünt fel képzetében
+  Ingerelve indulatját
+  És kioltva az eszét –
+
+  „Úgy teszek majd!“ A leírás
+  Csak hevíté szenvedélyét
+  És a percz fellobbanása
+  Akaratba gyúlad át.
+
+  „Úgy teszek, ahogy’ megirtam,
+  Úgy teszek majd!“ És ledobbant
+  És a padlón elterülve
+  Vonagolva zokogott.
+
+
+
+
+HETEDIK ÉNEK.
+
+  Sántikálj csak, jó trochæus –
+  A négy lábad hogyha biczczen
+  Vagy az oldalad nyilallik,
+  Bár caesurát nem kapott:
+
+  Sohse bánjad! Jobb a sorsod,
+  Mint lehordott jámbusimnak;
+  Boldog állat! ládd-e, téged
+  Nem ugat a kutya sem!
+
+  Hol is hagytuk el Slemílkét?
+  Úgy, igaz, a földön fekve.
+  Ime, nyájas olvasó, most
+  Más helyzetben látod őt.
+
+  Ottan áll egy utcza sarkán
+  Kémlelődő, vizsga szemmel,
+  Melyet piszkos úti porral
+  Teleszór az esti szél,
+
+  S míg a szél nagyobbul egyre
+  S a porfelhő is kavargóbb
+  És az út sok karcsu fája
+  Hajladozva búg, recseg,
+
+  Hároméves kiskabátját,
+  Melyrül a gombok lesírnak,
+  Égő, fulladó nyakára
+  Lázas ujjal hajtja föl.
+
+  A halánték lüktetése
+  Tompán zúg le a fülébe,
+  Könny csiklándik a szemében,
+  Cserepes az ajjaka,
+
+  És a térde reszketését
+  És a foga vaczogását
+  Lábdobbantva, ajkszorítva,
+  Szembehunyva küzdi le.
+
+  Hogy’ került ő err’ a helyre?
+  Édes istenem, hisz’ ebben
+  Máskor talán nem is volna
+  Semmi rendenkívüli,
+
+  Hiszen évek töltek avval,
+  Hogy Slemíl úr reggel-este
+  Utczahosszat járva-járkált
+  Várakozva fel s alá –
+
+  De a passióknak utján
+  Most utószor jár alá-fel
+  És e léptek mérnek rája
+  Üdvöt és elkárhozást.
+
+  Aznap este, hogy agyában
+  Megfogamzott a vad eszme,
+  Alkonyatra búcsuzóul
+  Kisütött a napsugár,
+
+  S a vasúti állomásnál
+  Általútazó királyként
+  Pillanatra megjelenve,
+  Mosolyogva tünt tova.
+
+  Másnap aztán tiszta, pompás
+  Nap ragyogta át a tájat,
+  S ez elé csak olykor-olykor,
+  Hogyha port vetett a szél,
+
+  De Slemílt ez nem zavarta
+  S az álmatlan éj kimultán
+  Hálás szívvel üdvözölte
+  A reményadó napot:
+
+  „Légy ezerszer üdvözőlve
+  Tiszta, fényes nap sugára –
+  Tiszta, fényes igazomnál
+  Légy segítőm, légy tanúm!“
+
+  Estefelé még nagyobbra
+  Vált a szél, – de ő elindult,
+  Miután egy még aránylag
+  Uj ruhába öltözött,
+
+  S hogy kalapja jobban illjék
+  A fejére, bő keretjét
+  Megszükíté a Pester Lloyd
+  Összehajtott ívivel,
+
+  És magával víve apja
+  Czifra, régi tőrösbotját,
+  Egy sarokra lesbe állt a
+  Rácsos kertes ház elé.
+
+  Fel s alá járt, félve elsőbb,
+  Majd halálos nyúgalommal –
+  Ó be illik kurta lábhoz
+  A halálos nyúgalom!
+
+  „Légy ezerszer üdvözölve,
+  Tiszta, fényes nap sugára,
+  Tiszta, fényes igazomnál
+  Légy segítőm, légy tanúm!
+
+  Aki engemet bolyongót
+  Annyi úton át kisértél,
+  Ó ne tűnj le, ó ne hagyj el
+  Ezen az egy útamon!
+
+  Majd ha láttál rárohanni,
+  Majd ha fölhatott a jajja,
+  Majd ha felszökött a vére,
+  Föl, hozzád, az egekig,
+
+  Akkor, ó akkor boruljál
+  Alkonyesti bíborodba,
+  Fullaszd vérbe a világot,
+  Mikor ő elvérezik!
+
+  Mert nekem rá több jogom van,
+  Több okom van, mint a mórnak,
+  Akitől reszketve bújtak
+  A szemérmes csillagok:
+
+  Megbocsátva leborulnék,
+  Hogyha hűtelennek hinném –
+  Az a vétke, az a bűne,
+  Hogy sosem volt az enyém!“
+
+  És a szél szárnyára vette
+  A boszúnak izenetjét,
+  Szárnyabúgva, síva, zúgva
+  Vitte azt fel a napig –
+
+  „Van jogod rá, van jogod rá
+  Én szivem!“ kiált rekedten
+  A fiú – és ebb’ a perczben
+  Lép az útra a leány.
+
+
+
+
+INTERMEZZO.
+
+  Airy fairy Lilian,
+  Flitting fairy Lilian
+  – – – – – –
+  Cruel little Lilian!
+
+(Tennyson.)
+
+  Nyájas olvasó, ha egykor,
+  Amikor még ifju voltál,
+  Áttanultad a poézis
+  Czélszerű szabályait,
+
+  Úgy tudod, hogy mostan kéne
+  Gyors erővel, drámamódra
+  A csomót, melyet kötöttem,
+  Ujra széllyeloldanom;
+
+  S épen most jutott eszembe
+  Az, aminek sohse kéne
+  Ujraélni a szivemben:
+  A magam szerelme az.
+
+  Anch’ io! Én is szerettem,
+  Engemet meg nem szerettek, –
+  S amikor eszembe ötlik
+  Ez a fájó szerelem,
+
+  Nem tudok mesét bogozni
+  S nincs erőm bogot megoldni,
+  Nem tudok mást, mint sohajtva
+  Emlegetni egy nevet.
+
+  Itt az egy-en van a hangsúly:
+  Egy nevet, egyetlenegyet,
+  Melyen kívül semmi más név
+  Énnekem nem létezett;
+
+  Ezt az egy nevet susogtam
+  Halk beszédben önmagamnak,
+  Hogyha keltem, hogyha jártam,
+  Ha az álom elfogott,
+
+  Ezt az egy nevet susogtam
+  Lázban égve, vágyban élve
+  És ez egy név csengésétől
+  Dalra dal kelt ajkamon,
+
+  Ezt az egy nevet susogtam,
+  Hogyha néha-néha, ritkán,
+  Sors kegyelme vagy szeszélye
+  Szembeküldött ő vele,
+
+  És amig perfekt causeurként
+  Médisáltam – az időrül,
+  Titkon ajkam azt rebegte:
+  „Lilian, ó Lilian!“
+
+  Vége annak az időnek,
+  Nem sohajtok semmi névre,
+  És az égő szerelemnek
+  Istenucscse vége már!
+
+  Hogyha néha-néha látom
+  Bálriportban, tomboláknál
+  Vagy egyéb ily alkalomkor
+  Nyomtatásban a nevét,
+
+  Hosszasabban a szokottnál
+  Nézem át a hír rovatját
+  S gondolom: legyen megáldva,
+  Akié volt e riport,
+
+  Legyen áldva a szedő is,
+  Aki ezt a hirt kiszedte,
+  Legyen áldva a kihordó,
+  Akitől ezt megvevém,
+
+  S legyen áldva a kis szőke
+  Főnek minden aranyszála,
+  Áldva a két drága szemnek
+  Kéksugárú mosolya,
+
+  Áldva tánczos lábacskája
+  Minden apró libbenése…
+  Igy merengek el sokáig –
+  Ám a szívem nem sajog…
+
+  És a szívem föl se dobban,
+  Majd ha férjhez látom menni,
+  Az se bánt, ha mással nemz is
+  Fiakat meg lyányokat –
+
+  Ó de félek, hogy, ha majdan
+  A halálos ágyra rogytam
+  S az idő int, hogy siessek,
+  Mert nagy út vár még reám,
+
+  Hogy majd akkor nem bucsúzom
+  Senkitől, akit szerettem,
+  S ajkam nem mond ellenimnak
+  Nyugtató bocsánatot,
+
+  S istennek nevét se hívom:
+  Félhalottan, végsohajjal
+  Átsohajtom a halálba:
+  „Lilian, ó Lilian!“
+
+
+
+
+NYOLCZADIK ÉNEK.
+
+  S ím, a kertnek ajtajában
+  Megjelent a szép leány;
+  Egy öreg angolnő és egy
+  Uj napernyő volt vele.
+
+  Olyan szép volt, olyan szép volt,
+  Olyan asszonymódra bájos,
+  Részegitőbb, mint az absynth,
+  A havanna s a hasis!
+
+  Olyan szivdagasztó édes
+  A fehér nyak mozdulatja,
+  Ahogy’ a folyton kavargó
+  Szélrohamtól fordul el,
+
+  Mely a könnyü csipkeernyőt
+  Majd kitépi a kezéből
+  S rászoritja termetére
+  Ingerlően a ruhát.
+
+  Ó ne menj, ó ne menj,
+  Ne a bizonyos halálba!
+  Fuss el a fehér nyakadra
+  Készülő vad kéz elől!
+
+  Ó ne állj ki mosolyogva
+  Nyilt szeműen a száguldó
+  Fékevesztett, sarkantyúzott
+  Szabad őrület elé!
+
+  „Van jogod rá, van jogod rá
+  Én szivem!“ kiált rekedten
+  A fiú és szemmeresztve
+  Lép rohan a lány elé…
+
+  De amint emelné karját,
+  És még egy utolsót lépne,
+  A felbúgó szél lekapta
+  Fejéről a kalapot,
+
+  És lecsapta porba, sárba,
+  És kikapva belsejéből
+  A Pester Lloyd első lapját,
+  Fölvivé az egekig,
+
+  S körbe nyargalt a kalappal
+  Utczahosszat, míg Slemíl úr
+  Ijedt reflexmozdulattal
+  Nagyot nyult a semmibe,
+
+  S majd, kisérve a járóknak
+  Széles szájú mosolyától
+  És vagy négy suszter-gyerektől,
+  Futott a kalap után.
+
+  Semmi vonzó, semmi bájos
+  Ebben a vad nyargalásban,
+  Ó sohsem volt a bakugrás
+  Megnyerő harmónia!
+
+  Sohasem gyúlt szerelemre
+  Bármely alkalmas leányszív,
+  Ha négykézláb rugdalódzott
+  Előtte az ideál!
+
+  Ó nagy isten, mért teremtél
+  Kalapot meg két ballábat
+  S mért akartad, hogy a földön
+  Vargainas is legyen,
+
+  S mért akartad, hogy a legjobb
+  Ember is nevetve nézze,
+  Kárörvendve kikaczagja
+  Embertársa bajait?
+
+  Ó mily édes kaczagással
+  Nevetett a szép leány!
+  A lehúnyó nap tüzében
+  Csillogtak kis fogai,
+
+  Homlokán a selymes fürtök
+  Olyan édesen rezegtek,
+  Úgy ragyogtak kék szemében
+  A mosolynak könnyei!
+
+  Mint a fénylő ég boltjára
+  A jegek fehér felhője,
+  Úgy vonult fel kék szeméhez
+  Kis, hideg, fehér keze,
+
+  S mint felhők mögűl az égbolt
+  Ki-kibukkan, ha kiváncsi,
+  Perczre-perczre feltekintve
+  Nézte, nézte a futót –
+
+  A Slemíl meg tovanyargalt
+  Le-lebukva és lihegve,
+  Folyton űzve rossz kalapját
+  Sokszeszélyű utjain,
+
+  Amig végre vad futással,
+  Sem kalappal, sem leánynyal,
+  Emberekkel sem törődve
+  Tünt a messzeségbe el…
+
+  És ki tudja, hogy valóban
+  A kalapját kergeté-e,
+  S nem rohant-e, nem futott-e
+  Voltakép maga elől?
+
+  Nem futott-e, hogy majd többé
+  Azt az arczot meg ne lássa,
+  Azt a hangot meg ne hallja
+  Soha, soha, sohasem!
+
+
+
+
+EPILOG.
+
+  Már a nap letünt az éjbe,
+  Csak piros visszfénye lángolt
+  Fellobogva és lohadva
+  Mint a bús emlékezet,
+
+  Már a szélvész is lelankadt,
+  Már a fák is csöndesűltek,
+  Néha-néha csak, ha súgták:
+  Soha, soha, sohasem!
+
+  Soha, soha, sohasem! –
+  Mondjuk el hát még utószor
+  Mosolyogva és sohajtva:
+  Isten önnel, kis slemíl!
+
+  Váljék önből is filiszter,
+  Járdahágó, tollszárrágó
+  És kenyérért öklelődző –
+  Isten önnel, kis slemíl!
+
+  A Slemílt a rohanásban
+  Egy barátja fogta meg,
+  És megállítván az ifjat,
+  Végig mérte kérdezőn.
+
+  Nagy-nehéz volt szóba fogni,
+  De mikor megkezdte, akkor
+  Szakadatlan tört belőle
+  Fölzokogva a beszéd.
+
+  Majd lecsítult és karöltve
+  Fölmenének a barátok
+  Abba a szűk kis szobába,
+  Melyben a Slemíl lakott,
+
+  Ahol a barát leülve,
+  Szótalan hallgatta végig
+  A Slemíl szerelmi búját
+  És szerelmes verseit.
+
+  Majd azonban egyik versnél,
+  Amely a teremtést szidta,
+  Rátekintve a papírra
+  Szólt, szavát megnyomva jól:
+
+  „Nem, barátom, aki „Isten“-t
+  Nagy kezdőbetűvel írja,
+  Annak semmi kérdésére
+  Nem felel a tudomány!“
+
+  Majd meg aztán, hogy Slemíl úr
+  Olyan verset olvasott fel,
+  Amelyikben egy kegyelmes
+  Pillantásért esedez:
+
+  „Nem, fiam, aki a csókot
+  Kegynek nézi, nem adónak,
+  Az ugyan hiába várja
+  Asszonyajkak csókjait!“
+
+  Majd szivart vett, megmetélte,
+  A gyertya tüzébe mártá
+  És a füstjét szertefújva
+  A homályba visszadőlt,
+
+  S míg a gazda nagy zavarban
+  Visszarakta a sok irást
+  Ágy alá, asztal fiába,
+  A pamlagról igy beszélt:
+
+  „Fiatal vagy, nem tapasztalt –
+  Voltam én is egyszer ilyen,
+  Irtam verseket robotba,
+  Hogy csak ugy kongtam belé –
+
+  Abbahagytam, mert beláttam,
+  Hogy nem új az, amit írok
+  És a régit sokkal szebben
+  Már megirták ezeren,
+
+  És beláttam, hogy manapság
+  Jobb a gáz a holdvilágnál
+  S többet ér egy hausse a börzén,
+  Mint a legszebb költemény,
+
+  És a lantomat megütve,
+  Még utószor, búcsuzóul
+  Ujkoromnak a prológját
+  Eldanoltam imígyen:
+
+  Vége a meddő sohajnak,
+  Vége a szerelmi dalnak,
+  Aki egyre azt daloltam,
+  Szerelemrül ajkam hallgat,
+
+  Nem kivánlak vissza többé,
+  Álomcsókok, álomrózsák,
+  Képzeletnek tengerénél
+  Többet ér egy csepp valóság!“
+
+VÉGE.
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK A SLEMÍL KESERVEI ***
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the
+United States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away--you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you will have to check the laws of the country where
+  you are located before using this eBook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that:
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg-tm trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+Section 3. Information about the Project Gutenberg Literary
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation's website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without
+widespread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org
+
+This website includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
